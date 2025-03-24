@@ -1,1 +1,3 @@
 Hi, this is the git training!
+
+Hello, this is second line!
